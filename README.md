@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_noise_0.001_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_noise_0.001_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 1" width="100%" />
       <p>(a) 1-step(&rho;=0.001) </p>
     </td>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_noise_0.001_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 2" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_noise_0.001_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 2" width="100%" />
       <p>(b) 2-step(&rho;=0.001) </p>
     </td>
   </tr>
@@ -18,11 +18,11 @@
 <table>
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/2-NN-diagonal-multicurve_rho_0.001_step_1_n_1000_d_1000_h_1000_lrmax_7000_33000_step_1000.png" alt="Figure 1" width="100%" />
+      <img src="figures/2-NN-diagonal-multicurve_rho_0.001_step_1_n_1000_d_1000_h_1000_lrmax_7000_33000_step_1000.png" alt="Figure 1" width="100%" />
       <p>(a) 1-step(&rho;=0.001) </p>
     </td>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/2-NN-diagonal-multicurve_rho_0.001_step_2_n_1000_d_1000_h_1000_lrmax_7000_33000_step_1000.png" alt="Figure 2" width="100%" />
+      <img src="figures/2-NN-diagonal-multicurve_rho_0.001_step_2_n_1000_d_1000_h_1000_lrmax_7000_33000_step_1000.png" alt="Figure 2" width="100%" />
       <p>(b) 2-step(&rho;=0.001) </p>
     </td>
   </tr>
@@ -33,19 +33,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/4-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 1" width="100%" />
+      <img src="figures/4-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 1" width="100%" />
       <p>(a) 4-Layer 1-step </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/4-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 2" width="100%" />
+      <img src="figures/4-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 2" width="100%" />
       <p>(b) 4-Layer 2-step  </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/8-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 3" width="100%" />
+      <img src="figures/8-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 3" width="100%" />
       <p>(c) 8-Layer 1-step </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/8-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 4" width="100%" />
+      <img src="figures/8-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_50_step_2_plot.png" alt="Figure 4" width="100%" />
       <p>(d) 8-Layer 2-step  </p>
     </td>
   </tr>
@@ -56,11 +56,11 @@
 <table>
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/3-NN-Nonlinear-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_14_20_step_1_plot.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-Nonlinear-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_14_20_step_1_plot.png" alt="Figure 1" width="100%" />
       <p>(a) 1-step </p>
     </td>
     <td width="48%" align="center" valign="top">
-      <img src="./figures/3-NN-Nonlinear-diagonal-multicurve_step_8_lr_n_1000_d_1000_h_1000_lrmax_14_20_step_1_plot.png" alt="Figure 2" width="100%" />
+      <img src="figures/3-NN-Nonlinear-diagonal-multicurve_step_8_lr_n_1000_d_1000_h_1000_lrmax_14_20_step_1_plot.png" alt="Figure 2" width="100%" />
       <p>(b) 8-step </p>
     </td>
   </tr>
@@ -71,19 +71,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_2_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_2_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 1" width="100%" />
       <p>(a)  2-step </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_4_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 2" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_4_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 2" width="100%" />
       <p>(b) 4-step  </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_8_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 3" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_8_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 3" width="100%" />
       <p>(c) 8-step </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_16_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 4" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_16_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 4" width="100%" />
       <p>(d) 16-step  </p>
     </td>
   </tr>
@@ -92,19 +92,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_32_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_32_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 1" width="100%" />
       <p>(e) 32-step</p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_64_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 2" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_64_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 2" width="100%" />
       <p>(f) 64-step</p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_128_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 3" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_128_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 3" width="100%" />
       <p>(g) 128-step</p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_512_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 4" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_512_lrmax_2_30_step_4_n_1000_d_1000_h_1000_star.png" alt="Figure 4" width="100%" />
       <p>(h) 512-step</p>
     </td>
   </tr>
@@ -115,7 +115,7 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_100_107_step_1_plot_special_first_step.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_100_107_step_1_plot_special_first_step.png" alt="Figure 1" width="100%" />
       <p>(a) 2-step </p>
     </td>
   </tr>
@@ -126,7 +126,7 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_noise_0.0_step_1_lr_n_1000_d_1000_h_1000_lrmax_100_300_step_20_plot.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_noise_0.0_step_1_lr_n_1000_d_1000_h_1000_lrmax_100_300_step_20_plot.png" alt="Figure 1" width="100%" />
       <p>(a) 1-step </p>
     </td>
   </tr>
@@ -137,19 +137,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/2-NN-theoretical-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 1" width="100%" />
+      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 1" width="100%" />
       <p>(a)  1-step(theory) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/2-NN-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 2" width="100%" />
+      <img src="figures/2-NN-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 2" width="100%" />
       <p>(b) 1-step(experiment)  </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
+      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
       <p>(c) 2-step(theory) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
+      <img src="figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
       <p>(d) 2-step(experiment)  </p>
     </td>
   </tr>
@@ -160,19 +160,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-theoretical-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_30_100_step_5.png" alt="Figure 1" width="100%" />
+      <img src="figures/3-NN-theoretical-diagonal-multicurve_step_1_n_1000_d_1000_h_1000_lrmax_30_100_step_5.png" alt="Figure 1" width="100%" />
       <p>(a)  1-step(theory) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 2" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_1_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 2" width="100%" />
       <p>(b) 1-step(experiment)  </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_30_100_step_5.png" alt="Figure 3" width="100%" />
+      <img src="figures/3-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_30_100_step_5.png" alt="Figure 3" width="100%" />
       <p>(c) 2-step(theory) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 4" width="100%" />
+      <img src="figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_30_100_step_5_plot.png" alt="Figure 4" width="100%" />
       <p>(d) 2-step(experiment)  </p>
     </td>
   </tr>
@@ -183,19 +183,19 @@
 <table>
   <tr>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/training_loss_lin.png" alt="Figure 1" width="100%" />
+      <img src="figures/training_loss_lin.png" alt="Figure 1" width="100%" />
       <p>(a)  train loss(lin-lin) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/test_loss_lin.png" alt="Figure 2" width="100%" />
+      <img src="figures/test_loss_lin.png" alt="Figure 2" width="100%" />
       <p>(b) test loss(lin-lin)  </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/training_loss_log.png" alt="Figure 3" width="100%" />
+      <img src="figures/training_loss_log.png" alt="Figure 3" width="100%" />
       <p>(c) train loss(log-log) </p>
     </td>
     <td width="24%" align="center" valign="top">
-      <img src="./figures/test_loss_log.png" alt="Figure 4" width="100%" />
+      <img src="figures/test_loss_log.png" alt="Figure 4" width="100%" />
       <p>(d)  test loss(log-log)  </p>
     </td>
   </tr>
@@ -204,7 +204,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="top">
-      <img src="./figures/F_norm.png" alt="Figure 1" width="100%" />
+      <img src="figures/F_norm.png" alt="Figure 1" width="100%" />
       <p>(e) Frobenius norm Gap </p>
     </td>
   </tr>
