@@ -210,4 +210,4 @@
   </tr>
 </table>
 
-<p align="center"><em><strong>Figure 20: Insights for designing layer-wise lr scheduler </strong>.  Here, we consider W₁ ∈ R⁶⁰ˣ¹⁰⁰, W₂ ∈ R¹⁰⁰ˣ⁶⁰, and M ∈ R⁶⁰ˣ⁶⁰, with ‖W₁‖F = 1 and ‖W₂‖F = 6. We use 100 training samples and 20 test samples, adopt the MSE loss, and train the model using gradient descent for 200 iterations.</em></p>
+<p align="center"><em><strong>Figure 20: Insights for designing layer-wise lr scheduler </strong>.  Here, we consider W₁ ∈ R⁶⁰ˣ¹⁰⁰, W₂ ∈ R¹⁰⁰ˣ⁶⁰, and M ∈ R⁶⁰ˣ⁶⁰, with ‖W₁‖F = 1 and ‖W₂‖F = 6 at initialization. We use 100 training samples and 20 test samples, base lr=0.0001, adopt the MSE loss, and train the model using gradient descent for 200 iterations.</em></p>
