@@ -209,11 +209,11 @@
     </td>
     <td width="32%" align="center" valign="top">
       <img src="figures/later_stage_test.png" alt="Figure 1" width="100%" />
-      <p>(e) test loss(later stage) </p>
+      <p>(f) test loss(later stage) </p>
     </td>
     <td width="32%" align="center" valign="top">
       <img src="figures/F_norm.png" alt="Figure 1" width="100%" />
-      <p>(e) Frobenius norm Gap </p>
+      <p>(g) Frobenius norm Gap </p>
     </td>
   </tr>
 </table>
