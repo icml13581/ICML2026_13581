@@ -203,7 +203,15 @@
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="top">
+    <td width="32%" align="center" valign="top">
+      <img src="figures/later_stage_training.png" alt="Figure 1" width="100%" />
+      <p>(e) Frobenius norm Gap </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/later_stage_test.png" alt="Figure 1" width="100%" />
+      <p>(e) Frobenius norm Gap </p>
+    </td>
+    <td width="32%" align="center" valign="top">
       <img src="figures/F_norm.png" alt="Figure 1" width="100%" />
       <p>(e) Frobenius norm Gap </p>
     </td>
