@@ -116,28 +116,33 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_100_107_step_1_plot_special_first_step.png" alt="Figure 1" width="100%" />
-      <p>(a) 2-step </p>
+      <p>(a) 3-layer NN, step 1: first-layer-only update </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
-      <p>(c) 2-step(theory) </p>
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
-      <p>(d) 2-step(experiment)  </p>
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
-      <p>(c) 2-step(theory) </p>
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
-      <p>(d) 2-step(experiment)  </p>
+      <img src="figures/3-NN-step1-sweep_step2-halfC_n_1000_d_1000_h_1000_C_100_107_step_1.png" alt="Figure 3" width="100%" />
+      <p>(b) 3-layer NN, step 2: symmetric two-layer update </p>
     </td>
   </tr>
 </table>
 
-<p align="center"><em><strong>Figure 16: 3-layer NN under orthogonal initialization for special 2-step update.</strong> Here we set η₁ + η₂ =C ≤ O(h²ᐟ³) with h=1000.  We set the first update step to use an asymmetric learning-rate allocation: the first layer is updated with learning rate C, while the second layer is not trained. For the second update step, we then optimize under the constraint η₁ + η₂ =C.</em></p>
+<table>
+  <tr>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/toy_2cnn_two_step_loss_img16_train512_test512_c1_8_c2_8_C_10.0_14.0_1.0_step1_C_layer1.png" alt="Figure 4" width="100%" />
+      <p>(c) 3-layer CNN, step 1: first-layer-only update  </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/toy_2cnn_two_step_loss_img16_train512_test512_c1_8_c2_8_C_10.0_14.0_1.0_step1_C_layer2.png" alt="Figure 3" width="100%" />
+      <p>(d) 3-layer CNN, step 1: second-layer-only update </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/toy_2cnn_two_step_step1_sweep_loss_img16_train512_test512_c1_8_c2_8_C_10.0_14.0_1.0.png" alt="Figure 4" width="100%" />
+      <p>(e) 3-layer CNN, step 2: symmetric two-layer update  </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><em><strong>Figure 16</strong>: (a) 3-layer NN under orthogonal initialization for special 2-step update. Here we set η₁ + η₂ =C ≤ O(h²ᐟ³) with h=1000.  We set the first update step to use an asymmetric learning-rate allocation: the first layer is updated with learning rate C, while the second layer is not trained. For the second update step, we then optimize under the constraint η₁ + η₂ =C. (b) 3-layer NN under orthogonal initialization for special 2-step update. Here we set η₁ + η₂ =C. We set the second update step to use an symmetric learning-rate allocation: η₁=η₂=C/2 . For the first update step, we  optimize under the constraint η₁ + η₂ =C. (c) 3-layer CNN for special 2-step update. Here we set η₁ + η₂ =C.  We set the first update step to use an asymmetric learning-rate allocation: the first layer is updated with learning rate C, while the second layer is not trained. For the second update step, we then optimize under the constraint η₁ + η₂ =C. (d)3-layer CNN for special 2-step update. Here we set η₁ + η₂ =C.  We set the first update step to use an asymmetric learning-rate allocation: the second layer is updated with learning rate C, while the first layer is not trained. For the second update step, we then optimize under the constraint η₁ + η₂ =C. (e) 3-layer CNN  for special 2-step update. Here we set η₁ + η₂ =C. We set the second update step to use an symmetric learning-rate allocation: η₁=η₂=C/2 . For the first update step, we  optimize under the constraint η₁ + η₂ =C.  </em></p>
 
 <table>
   <tr>
