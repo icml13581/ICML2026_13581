@@ -118,6 +118,22 @@
       <img src="figures/3-NN-diagonal-multicurve_step_2_lr_n_1000_d_1000_h_1000_lrmax_100_107_step_1_plot_special_first_step.png" alt="Figure 1" width="100%" />
       <p>(a) 2-step </p>
     </td>
+    <td width="50%" align="center" valign="top">
+      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
+      <p>(c) 2-step(theory) </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
+      <p>(d) 2-step(experiment)  </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/2-NN-theoretical-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 3" width="100%" />
+      <p>(c) 2-step(theory) </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="figures/2-NN-diagonal-multicurve_step_2_n_1000_d_1000_h_1000_lrmax_27000_63000_step_2000.png" alt="Figure 4" width="100%" />
+      <p>(d) 2-step(experiment)  </p>
+    </td>
   </tr>
 </table>
 
